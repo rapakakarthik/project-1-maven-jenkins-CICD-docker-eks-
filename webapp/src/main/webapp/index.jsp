@@ -31,8 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hara hara mahadev </h1>
+   <h1> Hara Hara Mahadev </h1>
    <h1> Happy Mahashivarathri </h1>
-   <h1> See You Again </h1>
+   <h1> Rapaka Karthik </h1>
   
 </form>
