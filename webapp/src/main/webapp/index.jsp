@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> gitscm  </h1>
-   <h1> gitscm </h1>
+   <h1> 1000  </h1>
+   <h1> 10k </h1>
   
 </form>
