@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> maven  </h1>
-   <h1> maven  </h1>
+   <h1> declritive---1  </h1>
+   <h1> declritive  </h1>
   
 </form>
