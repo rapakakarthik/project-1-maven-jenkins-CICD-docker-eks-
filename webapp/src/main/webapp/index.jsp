@@ -32,7 +32,6 @@
   </div>
 
    <h1> freeone job created </h1>
-   <h1> Happy Mahashivarathri </h1>
-   <h1> Rapaka Karthik </h1>
+   <h1> for 4th job checking </h1>
   
 </form>
