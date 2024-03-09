@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hara Hara Mahadev </h1>
+   <h1> freeone job created </h1>
    <h1> Happy Mahashivarathri </h1>
    <h1> Rapaka Karthik </h1>
   
