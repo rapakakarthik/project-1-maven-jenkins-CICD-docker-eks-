@@ -32,6 +32,6 @@
   </div>
 
    <h1> declritive---1  </h1>
-   <h1> declritive  </h1>
+   <h1> declritive---2 </h1>
   
 </form>
