@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> 8888888888888  </h1>
-   <h1> 88888888888888 </h1>
+   <h1> hi  </h1>
+   <h1> kavya </h1>
   
 </form>
